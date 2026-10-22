@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-22T16:15:36.950978+00:00",
+  "state_tag": "monitor-state-20261022T161527Z-39811071268-1",
+  "html_sha256": "fe2d03c8f83aa0cb96693ff123f97329d48d6e4388e2dc00aec7fe2147bd589c",
+  "publication_verified": true,
+  "articles": 19850,
+  "new_articles": 89,
+  "sources_total": 47,
+  "sources_successful": 45,
+  "sources_failed": 2
+}
