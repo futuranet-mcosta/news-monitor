@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T15:00:52.229094+00:00",
-  "state_tag": "monitor-state-20261029T150043Z-40896754551-1",
-  "html_sha256": "a574e5fc194d7488260934db8a54e586a74f2d358871192a1dc872a7138a63f6",
+  "updated_at": "2026-10-29T23:50:16.797514+00:00",
+  "state_tag": "monitor-state-20261029T235008Z-40975572210-1",
+  "html_sha256": "b8d2575353e0afec4bc6ab6249f759de20000092ba0cadfa8da5b07149b36a0b",
   "publication_verified": true,
-  "articles": 22438,
-  "new_articles": 374,
+  "articles": 22516,
+  "new_articles": 78,
   "sources_total": 47,
-  "sources_successful": 42,
-  "sources_failed": 5
+  "sources_successful": 45,
+  "sources_failed": 2
 }
